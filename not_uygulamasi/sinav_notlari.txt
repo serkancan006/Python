@@ -1,0 +1,3 @@
+ahmet yılmaz:60,70,80
+serkan can:80,90,100
+deniz efe:100,100,100
